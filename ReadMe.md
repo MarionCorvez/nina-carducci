@@ -11,8 +11,8 @@ Vous êtes développeur freelance et vous décidez de proposer vos services d’
 
 ## Étapes du projet
 
-1. [x] Étape 1 : Étape 1 : Prendre en main le code source
-2. [ ] Étape 2 : Lister les optimisations qui peuvent être réalisées
+1. [x] Étape 1 : Prendre en main le code source
+2. [X] Étape 2 : Lister les optimisations qui peuvent être réalisées
 3. [ ] Étape 3 : Optimiser les performances du site
 4. [ ] Étape 4 : Optimiser le SEO technique
 5. [ ] Étape 5 : Ajouter le référencement local et réseaux sociaux
