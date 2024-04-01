@@ -1,6 +1,4 @@
-
 # Nina Carducci
-
 
 ## Scénario
 
@@ -8,22 +6,19 @@ Vous êtes développeur freelance et vous décidez de proposer vos services d’
 
 ![Photo Nina Carducci](https://marioncorvez.github.io/nina-carducci/assets/images/nina.webp)
 
-
 ## Étapes du projet
 
 1. [x] Étape 1 : Prendre en main le code source
-2. [X] Étape 2 : Lister les optimisations qui peuvent être réalisées
-3. [X] Étape 3 : Optimiser les performances du site
-4. [X] Étape 4 : Optimiser le SEO technique
-5. [ ] Étape 5 : Ajouter le référencement local et réseaux sociaux
+2. [x] Étape 2 : Lister les optimisations qui peuvent être réalisées
+3. [x] Étape 3 : Optimiser les performances du site
+4. [x] Étape 4 : Optimiser le SEO technique
+5. [x] Étape 5 : Ajouter le référencement local et réseaux sociaux
 6. [ ] Étape 6 : Corriger l'accessibilité
 7. [ ] Étape 7 : Générer les rapports finaux et relire les documents
-
 
 ## Objectifs pédagogiques
 
 - Optimiser la performance d'un site web
-
 
 ## Cours associés
 
